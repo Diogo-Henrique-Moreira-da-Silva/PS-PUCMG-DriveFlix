@@ -31,12 +31,14 @@
 
 # Como rodar a aplicação
 
+
 ## Dev
 
 Para rodar a aplicação em modo de desenvolvimento, acesse o terminal no diretório `/code` e digite:
 ```
 docker-compose up
 ```
+
 ## Prod
 
 Para rodar a aplicação em modo de produção, acesse o terminal no diretório `/code` e digite:
