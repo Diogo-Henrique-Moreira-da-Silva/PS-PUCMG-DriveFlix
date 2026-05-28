@@ -17,6 +17,7 @@
 
 **O escopo da atividade por ser acessado [por aqui](./docs/LABORATÓRIO%2002%20-%20Sistema%20de%20Aluguel%20de%20Carros.pdf).**
 
+
 ## Integrantes
 
 - Diogo Henrique Moreira da Silva
